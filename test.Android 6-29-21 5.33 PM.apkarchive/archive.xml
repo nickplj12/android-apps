@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Archive>
+  <Name>test</Name>
+  <PackageName>com.nickpythonluajava.test</PackageName>
+  <PackageVersionCode>69</PackageVersionCode>
+  <PackageVersionName>6.9</PackageVersionName>
+  <PackageFormat>apk</PackageFormat>
+  <CreationDate>637605992096301533</CreationDate>
+  <SolutionName>test</SolutionName>
+  <SolutionPath>D:\vis\test\test.sln</SolutionPath>
+  <Status></Status>
+  <Configuration>
+    <DebugMode>false</DebugMode>
+  </Configuration>
+</Archive>
